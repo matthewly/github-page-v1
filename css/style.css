@@ -1,22 +1,26 @@
-* { 
-	margin: 0; 
-	padding: 0; 
+body {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h1, h2, h3, h4 {
+    font-family: 'Raleway', sans-serif;
 }
 
+.portrait {
+    float: left;
+    margin-right: 2%;
+}
 
-.background-image{
+.duration {
+    color: #FF500A;
+}
 
-  background: url(http://writemyessayonline.com/blog/wp-content/uploads/2015/08/college-classes.jpg) no-repeat center center fixed; 
-  
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  z-index:-1;
-  position: absolute;
+.exp {
+    margin-bottom: 5%;
+}
 
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
+.project {
+    margin-bottom: 5%;
 }
